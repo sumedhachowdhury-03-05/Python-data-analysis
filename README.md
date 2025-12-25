@@ -74,8 +74,9 @@ jupyter notebook
 
 
 Open notebooks one by one in order.
+---
 
-### 🎯 Learning Outcomes
+###🎯 Learning Outcomes
 
 Strong understanding of NumPy and Pandas
 
