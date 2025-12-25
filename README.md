@@ -54,7 +54,7 @@ Basic visualization using Matplotlib including line plots, bar charts, and histo
 Student Performance Analysis including calculations, visualization, and conclusion.
 
 ---
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/your-username/python-data-analysis-2nd-year.git
 
@@ -75,7 +75,7 @@ jupyter notebook
 
 Open notebooks one by one in order.
 
-🎯 Learning Outcomes
+### 🎯 Learning Outcomes
 
 Strong understanding of NumPy and Pandas
 
